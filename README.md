@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ViSiOn-Git
-- 👀 I’m interested in coding
 - 😄 Pronouns: He
 
 
